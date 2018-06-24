@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Excercises\MergeFiles\bin\Debug\netcoreapp2.0\MergeFiles.deps.json
+C:\Users\user\source\repos\Excercises\MergeFiles\bin\Debug\netcoreapp2.0\MergeFiles.runtimeconfig.json
+C:\Users\user\source\repos\Excercises\MergeFiles\bin\Debug\netcoreapp2.0\MergeFiles.runtimeconfig.dev.json
+C:\Users\user\source\repos\Excercises\MergeFiles\bin\Debug\netcoreapp2.0\MergeFiles.dll
+C:\Users\user\source\repos\Excercises\MergeFiles\bin\Debug\netcoreapp2.0\MergeFiles.pdb
+C:\Users\user\source\repos\Excercises\MergeFiles\obj\Debug\netcoreapp2.0\MergeFiles.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Excercises\MergeFiles\obj\Debug\netcoreapp2.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Excercises\MergeFiles\obj\Debug\netcoreapp2.0\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Excercises\MergeFiles\obj\Debug\netcoreapp2.0\MergeFiles.AssemblyInfo.cs
+C:\Users\user\source\repos\Excercises\MergeFiles\obj\Debug\netcoreapp2.0\MergeFiles.dll
+C:\Users\user\source\repos\Excercises\MergeFiles\obj\Debug\netcoreapp2.0\MergeFiles.pdb

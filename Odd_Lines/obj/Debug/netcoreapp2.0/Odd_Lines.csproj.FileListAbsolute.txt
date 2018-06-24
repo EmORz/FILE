@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Excercises\Odd_Lines\bin\Debug\netcoreapp2.0\Odd_Lines.deps.json
+C:\Users\user\source\repos\Excercises\Odd_Lines\bin\Debug\netcoreapp2.0\Odd_Lines.runtimeconfig.json
+C:\Users\user\source\repos\Excercises\Odd_Lines\bin\Debug\netcoreapp2.0\Odd_Lines.runtimeconfig.dev.json
+C:\Users\user\source\repos\Excercises\Odd_Lines\bin\Debug\netcoreapp2.0\Odd_Lines.dll
+C:\Users\user\source\repos\Excercises\Odd_Lines\bin\Debug\netcoreapp2.0\Odd_Lines.pdb
+C:\Users\user\source\repos\Excercises\Odd_Lines\obj\Debug\netcoreapp2.0\Odd_Lines.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Excercises\Odd_Lines\obj\Debug\netcoreapp2.0\Odd_Lines.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Excercises\Odd_Lines\obj\Debug\netcoreapp2.0\Odd_Lines.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Excercises\Odd_Lines\obj\Debug\netcoreapp2.0\Odd_Lines.AssemblyInfo.cs
+C:\Users\user\source\repos\Excercises\Odd_Lines\obj\Debug\netcoreapp2.0\Odd_Lines.dll
+C:\Users\user\source\repos\Excercises\Odd_Lines\obj\Debug\netcoreapp2.0\Odd_Lines.pdb

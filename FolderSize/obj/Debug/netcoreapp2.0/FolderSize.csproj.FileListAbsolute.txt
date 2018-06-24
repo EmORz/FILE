@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Excercises\FolderSize\bin\Debug\netcoreapp2.0\FolderSize.deps.json
+C:\Users\user\source\repos\Excercises\FolderSize\bin\Debug\netcoreapp2.0\FolderSize.runtimeconfig.json
+C:\Users\user\source\repos\Excercises\FolderSize\bin\Debug\netcoreapp2.0\FolderSize.runtimeconfig.dev.json
+C:\Users\user\source\repos\Excercises\FolderSize\bin\Debug\netcoreapp2.0\FolderSize.dll
+C:\Users\user\source\repos\Excercises\FolderSize\bin\Debug\netcoreapp2.0\FolderSize.pdb
+C:\Users\user\source\repos\Excercises\FolderSize\obj\Debug\netcoreapp2.0\FolderSize.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Excercises\FolderSize\obj\Debug\netcoreapp2.0\FolderSize.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Excercises\FolderSize\obj\Debug\netcoreapp2.0\FolderSize.AssemblyInfo.cs
+C:\Users\user\source\repos\Excercises\FolderSize\obj\Debug\netcoreapp2.0\FolderSize.dll
+C:\Users\user\source\repos\Excercises\FolderSize\obj\Debug\netcoreapp2.0\FolderSize.pdb
+C:\Users\user\source\repos\Excercises\FolderSize\obj\Debug\netcoreapp2.0\FolderSize.csprojResolveAssemblyReference.cache
